@@ -1,0 +1,4 @@
+   On average, charter schools and district schools have relativey close average math and reading scores. Charter schools have higher overall passing rate, with a greater difference in the math category. 
+
+Schools with less than 1000 students performed greater in all score categories, schools with above 2000 students performed the worst. This suggests schools with smaller numbers do better due to smaller student to teacher ratios. 
+
