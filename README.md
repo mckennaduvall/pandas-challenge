@@ -10,4 +10,7 @@ Described the key metrics for the overall district, the individual schools and t
  - % passing math and reading
  - % overall passing
  
-Described the math and reading scores by grade, school spending, school size and school type.
+Described the math and reading scores by grade, school spending, school size and school type:
+- average math and reading scores
+- % passing math and reading
+- % overall passing 
